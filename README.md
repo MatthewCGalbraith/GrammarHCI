@@ -1,1 +1,1 @@
-This repo contains anonymized data and statistical analysis for the paper, "Grammar Plays a Role in Human-Computer Interaction, Huh?" TBA 2025
+This repo contains anonymized data and statistical analysis for the paper, "Dataset and Analysis for "The Limits of Naturalness: User Perceptions of Interactional Language in Human-Computer Interaction"
